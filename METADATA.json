@@ -1,0 +1,8 @@
+{
+  "name": "Home Scan",
+  "description": "Scan home issues with your camera, get an instant AI diagnosis, and connect with top-rated local professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
